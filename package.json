@@ -6,8 +6,7 @@
   "bugs": {
     "url": "https://github.com/paulleduc/joi-prefixed-ordered-uuid/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "description": "Support validating ordered UUID's prefixed with a string in both string and binary format.",
   "devDependencies": {},
   "directories": {},
@@ -39,5 +38,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
