@@ -1,0 +1,44 @@
+{
+  "author": {
+    "email": "leduc.paul@gmail.com",
+    "name": "Paul Leduc"
+  },
+  "bugs": {
+    "url": "https://github.com/paulleduc/joi-prefixed-ordered-uuid/issues"
+  },
+  "dependencies": {
+  },
+  "description": "Support validating ordered UUID's prefixed with a string in both string and binary format.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/paulleduc/joi-prefixed-ordered-uuid#readme",
+  "keywords": [
+    "ordered",
+    "uuid",
+    "guid",
+    "binary",
+    "joi",
+    "prefix",
+    "extension",
+    "validation"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "leduc.paul@gmail.com",
+      "name": "paulleduc"
+    }
+  ],
+  "name": "joi-prefixed-ordered-uuid",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulleduc/joi-prefixed-ordered-uuid.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
