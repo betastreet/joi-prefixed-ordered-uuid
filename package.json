@@ -32,7 +32,6 @@
   ],
   "name": "joi-prefixed-ordered-uuid",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/paulleduc/joi-prefixed-ordered-uuid.git"
