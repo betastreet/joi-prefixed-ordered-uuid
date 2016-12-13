@@ -3,9 +3,9 @@
 [![Downloads](http://img.shields.io/npm/dm/joi-prefixed-ordered-uuid.svg)](https://www.npmjs.com/package/joi-prefixed-ordered-uuid)
 
 Ordered UUID's can increase database performance over regular UUID's. The prefix helps you identify the type of resource associated with its ID. This Joi extension
-helps you validate these ID's in both binary and string format. It can be paired with [https://github.com/paulleduc/bookshelf-prefixed-ordered-uuid](bookshelf-prefixed-ordered-uuid).
+helps you validate these ID's in both binary and string format. It can be paired with [bookshelf-prefixed-ordered-uuid](https://github.com/paulleduc/bookshelf-prefixed-ordered-uuid).
 
-### Installation
+### Installation & Usage
 
 After installing `joi-prefixed-ordered-uuid` with `npm i --save joi-prefixed-ordered-uuid`,
 add it as a Joi extension and use it in your validation schema:
