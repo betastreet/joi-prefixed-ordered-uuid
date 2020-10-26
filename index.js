@@ -42,7 +42,7 @@ module.exports = function extension(Joi) {
 
                     const regex = prefixedUuidRegex(params.q);
 
-                    const isValid = testingValue.match(regex) || false;
+                    const isValid = testingValue && testingValue.match(regex);
 
                     if (!isValid) {
                         return this.createError('pouuid.pouuid', { v: value, q: params.q }, state, options);
